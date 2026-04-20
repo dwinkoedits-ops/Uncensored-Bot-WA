@@ -1,7 +1,7 @@
 {
-  "name": "dolphin-wa-bot",
+  "name": "dolphin-wa",
   "version": "1.0.0",
-  "description": "Bot WhatsApp avec Dolphin-Llama3",
+  "description": "Bot WhatsApp Dolphin",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
